@@ -5,9 +5,9 @@
   #while count < array.length do
     #puts array[count]
     #count += 1
-  end
-  array.max
-end
+  #end
+  #array.max
+#end
 
 def find_max_value(array)
   count = 0 
